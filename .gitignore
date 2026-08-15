@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+*.secret
+*.token
+*.pem
+*.key
+.DS_Store
+.xlsx-inspect/
